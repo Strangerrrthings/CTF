@@ -1,5 +1,3 @@
-##picoCTF-The Numbers
-
 credit : [picoCTF - The Numbers](https://play.picoctf.org/practice/challenge/68)
 
 ![image](https://github.com/user-attachments/assets/255404ea-631a-4c91-b306-29be6fb00b2e)
